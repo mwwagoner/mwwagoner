@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on really anything
 - 📫 How to reach me
 email: mwwagoner@gmail.com
-LinkedIn:  www.linkedin.com/in/michael-wagoner-03a94b29
 
 <!---
 mwwagoner/mwwagoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
